@@ -1,0 +1,9 @@
+haystack-ai
+python-dotenv
+gradio
+pandas
+plotly
+openpyxl
+statsmodels
+xlrd
+psycopg2-binary
